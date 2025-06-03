@@ -4,7 +4,7 @@ This is my home page! My name is Yousif Alrawe and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/yousifa2005.
+My GitHub page is [github.com/yousifa2005](https://github.com/yousifa2005).
 
 ### CPSC 120
 
@@ -18,4 +18,4 @@ My GitHub page is http://github.com/yousifa2005.
 
 * Lab 12
     
-    Lab 12 part 2 was a really fun lab with an amazing output, after learning about how to make gifs in the lecture, I was confused and doubted that I would be able to do it. After following the directions in the lab, producing a gif was easier than I had imagined. Not only did we produce a gif in part 2, but we also printed out the class name with a moving background. While completing this lab I also felt like it's when I fully understood how the .cc and .h files work. Overall this was my most favorite labs.
+    Lab 12 part 2 was a really fun lab with an amazing output, after learning about how to make gifs in the lecture, I was confused and doubted that I would be able to do it. After following the directions in the lab, producing a gif was easier than I had imagined. Not only did we produce a gif in part 2, but we also printed out the class name with a moving background. While completing this lab I also felt like it's when I fully understood how the .cc and .h files work. Overall this was my most favorite lab.
